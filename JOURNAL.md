@@ -19,3 +19,9 @@ I decided the layout of the keyboard using Keyboard Layout editor its going to b
 Today I routed all the traces of the pcb, cut out the edges, figured out how to do the firmware with qmk and or via, and added the silkscreen image to the front.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzg3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--84e2063024910cf0b2883776e3b4558b6f130e74/image.png)
   
 
+## 11/2/2025 6 PM - rerouted everything, and started on the case and renders  
+
+I realized all of the switches were flipped, so i had to flip all of them and reroute the entire pcb. After that I designed a case in fusion and exported it to blender and made some renders.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--1ca4dd17b845874908d667365b038e9660a98ecb/image.png)
+  
+
