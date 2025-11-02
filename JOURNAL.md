@@ -6,11 +6,16 @@
   ==================================================================
 -->
 
-## 11/2/2025 - Started designing the pcb  
+## 11/2/2025 10 AM - Started designing the pcb  
 
 I decided the layout of the keyboard using Keyboard Layout editor its going to be a 75% (the best %). and started making the schematic and laying out the pcb.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzc4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--698081a623bcb7a755a307c1418b2835ab4fda70/image.png)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzc4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--b323ad8522e51e0d806d1baf44358e9282fef051/image.png)
 
+  
+
+## 11/2/2025 2 PM - Routed the pcb and added design  
+
+Today I routed all the traces of the pcb, cut out the edges, figured out how to do the firmware with qmk and or via, and added the silkscreen image to the front.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzg3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--84e2063024910cf0b2883776e3b4558b6f130e74/image.png)
   
 
