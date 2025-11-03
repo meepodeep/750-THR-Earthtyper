@@ -25,3 +25,10 @@ I realized all of the switches were flipped, so i had to flip all of them and re
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--1ca4dd17b845874908d667365b038e9660a98ecb/image.png)
   
 
+## 11/3/2025 - added the mount points to the case and made the docs  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--49472efa91cf4366af093eb34a1c67901d880b06/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--7053a16a8649b97b76eb529a715736ce93c77637/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--7c700636a8701894b1ceca58cec604ac1030f32c/image.png)
+Today I made the docs, the bom, finalized the case and also finalized the pcb. This is the hardest part of the project to keep motivation through but atleast im done!  
+
