@@ -1,5 +1,7 @@
 # 750-THR-Earthtyper
 The 1000-THR Earthmover shrunk down to a keyboard size!
+<img width="1920" height="1080" alt="render" src="https://github.com/user-attachments/assets/90d2f617-debd-47f6-afe3-a873d6296fa3" />
+
 # Why does this exist
 I wanted to make an ultrakill themed keyboard, so i did!
 # How to build
