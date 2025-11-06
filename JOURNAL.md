@@ -32,3 +32,11 @@ I realized all of the switches were flipped, so i had to flip all of them and re
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--7c700636a8701894b1ceca58cec604ac1030f32c/image.png)
 Today I made the docs, the bom, finalized the case and also finalized the pcb. This is the hardest part of the project to keep motivation through but atleast im done!  
 
+## 11/4/2025 - I updated the bom and edited the pcb  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ3MywicHVyIjoiYmxvYl9pZCJ9fQ==--4c5158522953e3f4407817c2694b691500772163/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--9619354cf65675a604a98f3669da5e9fb1933bc0/image.png)
+
+This past few days I updated the bom because for some reason one of my cables cost 10 dollars, and I was told the schematic was unreadable (it was) so I started to use net labels.
+  
+
