@@ -40,3 +40,9 @@ Today I made the docs, the bom, finalized the case and also finalized the pcb. T
 This past few days I updated the bom because for some reason one of my cables cost 10 dollars, and I was told the schematic was unreadable (it was) so I started to use net labels.
   
 
+## 11/6/2025 - fixed drc errors and a schematic error   
+
+Today i fixed the schematic error with a missing column, I also aligned the keys in the schematic on a grid. (i hope this is all of the errors i missed)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--a131ab36c89c489f77cfd146aa654f3175d4d2d1/image.png)
+  
+
