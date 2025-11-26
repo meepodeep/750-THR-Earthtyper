@@ -1,5 +1,7 @@
 # 750-THR-Earthtyper
 The 1000-THR Earthmover shrunk down to a keyboard size!
+<img width="1920" height="1080" alt="earthtyper render" src="https://github.com/user-attachments/assets/4b34df17-ff35-4a58-9dbc-916f49d8e0a6" />
+
 <img width="1920" height="1080" alt="render" src="https://github.com/user-attachments/assets/7e995999-a9b4-465c-97fa-e2a2b12638ad" />
 
 <img width="1326" height="681" alt="image" src="https://github.com/user-attachments/assets/2f68f792-53b7-4ebf-b2f7-6c5a986d06c3" />
