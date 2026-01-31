@@ -1,5 +1,9 @@
 # 750-THR-Earthtyper
 The 1000-THR Earthmover shrunk down to a keyboard size!
+<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/4ad78cf6-d009-423a-b9d8-942b1b0cb2fe" />
+
+<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/2e6cab8e-7e9c-4cf3-b781-379b6f2d3880" />
+
 <img width="1920" height="1080" alt="earthtyper render" src="https://github.com/user-attachments/assets/4b34df17-ff35-4a58-9dbc-916f49d8e0a6" />
 
 <img width="1920" height="1080" alt="render" src="https://github.com/user-attachments/assets/7e995999-a9b4-465c-97fa-e2a2b12638ad" />
@@ -12,17 +16,35 @@ The 1000-THR Earthmover shrunk down to a keyboard size!
 
 # Why does this exist
 I wanted to make an ultrakill themed keyboard, so i did!
+# How to software
+ 1. DO BEFORE BUILD ITS EASIER I THINK
+ 2. Download QMK Toolbox and flash earthtyper via.hex onto the teensy by plugging it in, hitting the boot button and flashing. 
 # How to build
-1.solder the keyswitches onto the front of pcb using the laser cut Keyboard plate.svg , along with the teensy 2.0 and diodes on the back. 
+1. solder the keyswitches onto the front of pcb using the laser cut Keyboard plate.svg , along with the teensy 2.0 and diodes on the back
 2. Attach led strips to the inside of the case
+
 <img width="1058" height="740" alt="image" src="https://github.com/user-attachments/assets/65b356f4-628c-4af2-88c2-e19544ea722b" />
-3. Mask, engrave and cut the rear plate out of acrylic benjamin back.svg. 
-4. Paint the engraved back plate.
-5. mount the keyboard pcb with m2 screws
+
+4. Mask, engrave and cut the rear plate out of acrylic benjamin back.svg
+
+5. Paint the engraved back plate
+  
+6. mount the keyboard pcb with m2 screws
+
 <img width="989" height="826" alt="image" src="https://github.com/user-attachments/assets/9d2746c2-54cf-4cf8-a94a-2947538cce09" />
-6. mount the lid with m3 screws while having the back plate on
+7. cut the internal usb cable short on the mini b end
+
+8. resolder the wire together so it doesnt have to coil and the usb c can still reach the outside
+  
+10. Use whatever method of securing the usb c cable to the pcb so that it aligns with the hole in the case
+
+11. plug the mini b cable into the teensy.
+ 
+12. mount the front peice with m3 screws while having the back plate on
+
 <img width="1045" height="727" alt="image" src="https://github.com/user-attachments/assets/39f9e07e-b075-4236-8137-6b0d28dd8bb1" />
 <img width="1185" height="726" alt="image" src="https://github.com/user-attachments/assets/fb191f17-ae84-4a32-ba37-f467ccce2dd9" />
+
 
 #BOM
 |Item                         |Price  |Quantity     |Use                       |Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -37,6 +59,6 @@ I wanted to make an ultrakill themed keyboard, so i did!
 |m3 screws                    |$0     |gottem       |gottem                    |yo tengo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |pcbs                         |$33.74 |5x           |be a pcb                  |jlcpcb                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |Diodes                       |$2.38  |2x           |be diodes                 |https://www.aliexpress.us/item/3256806058794623.html?spm=a2g0o.productlist.main.2.21c47164oKn0xm&algo_pvid=cf2a58fb-98bf-4c31-b0fb-3dd53bf9cf60&algo_exp_id=cf2a58fb-98bf-4c31-b0fb-3dd53bf9cf60-1&pdp_ext_f=%7B%22order%22%3A%22933%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.72%211.19%21%21%2112.18%218.40%21%402101eede17622272036972994e35de%2112000036448323916%21sea%21US%214381910819%21X%211%210%21n_tag%3A-29919%3Bd%3A747bdf24%3Bm03_new_user%3A-29895&curPageLogUid=29HuQ5YR0viZ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006245109375%7C_p_origin_prod%3A |
-|Stablizers                   |$3.49  |             |stablize keys             |https://www.aliexpress.us/item/3256803076820380.html?spm=a2g0o.detail.0.0.44025Ziz5ZizBv&mp=1&pdp_npi=5%40dis%21USD%21USD%203.49%21USD%203.49%21%21USD%203.49%21%21%21%402101f54117624545764238043ec7b2%2112000024913121824%21ct%21US%214381910819%21%211%210&gatewayAdapt=glo2usa                                                                                                                                                                                                                                                                                                                                                        |
+|Stablizers                   |$10  |             |stablize keys             |https://mechanicalkeyboards.com/products/gateron-v2-stabilizers-plate-mount-clip-in-tkl-kit?variant=49172791984428&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic                                                                                                                                                                                                                                                                                                                                                      |
 |Total without tax or shipping|$117.14|             |                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |Total                        |$121.32|             |                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
