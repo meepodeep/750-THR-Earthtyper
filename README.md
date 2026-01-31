@@ -12,6 +12,9 @@ The 1000-THR Earthmover shrunk down to a keyboard size!
 
 # Why does this exist
 I wanted to make an ultrakill themed keyboard, so i did!
+# How to software
+ 1. DO BEFORE BUILD ITS EASIER I THINK
+ 2. Download QMK Toolbox and flash earthtyper via.hex onto the teensy by plugging it in, hitting the boot button and flashing. 
 # How to build
 1.solder the keyswitches onto the front of pcb using the laser cut Keyboard plate.svg , along with the teensy 2.0 and diodes on the back. 
 2. Attach led strips to the inside of the case
@@ -23,6 +26,8 @@ I wanted to make an ultrakill themed keyboard, so i did!
 6. mount the lid with m3 screws while having the back plate on
 <img width="1045" height="727" alt="image" src="https://github.com/user-attachments/assets/39f9e07e-b075-4236-8137-6b0d28dd8bb1" />
 <img width="1185" height="726" alt="image" src="https://github.com/user-attachments/assets/fb191f17-ae84-4a32-ba37-f467ccce2dd9" />
+
+
 
 #BOM
 |Item                         |Price  |Quantity     |Use                       |Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
